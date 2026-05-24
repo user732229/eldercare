@@ -1,4 +1,4 @@
-package com.eldercare.eldercare.model;
+package com.eldercare.model;
 
 import jakarta.persistence.*;
 import lombok.*;

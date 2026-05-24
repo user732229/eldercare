@@ -1,4 +1,4 @@
-package com.eldercare.eldercare;
+package com.eldercare;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
